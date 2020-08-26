@@ -1,0 +1,10 @@
+django-allauth
+django-cloudinary-storage
+django-crispy-forms
+django-widget-tweaks
+django-heroku
+Django==2.2
+django-ckeditor
+Pillow
+Markdown
+sendgrid
